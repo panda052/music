@@ -1,0 +1,73 @@
+body{
+	font-family:"Microsoft Yahei",΢���ź�,"Helvetica Neue",Arial,sans-serif;
+	font-size:16px;
+	background:url(../images/bg.jpg) center no-repeat;
+}
+a{
+	color: #777;
+	text-decoration:none;
+}
+a:focus,
+a:hover {
+	color: #8b4513;
+}
+header{
+	background:#fcfcfc;
+	height:200px;
+}
+header .account{
+	padding-right:200px;
+	text-align:right;
+	line-height: 50px;
+	
+	color:white;
+	height:50px;
+	background:#54BDA8;
+	filter:alpha(opacity=80);
+	opacity:0.5;
+	
+}
+header .account>a{
+	float:right;
+	padding-right:50px;
+	line-height: 40px;
+	color:white;
+	background:#54BDA8;
+	filter:alpha(opacity=80);
+	opacity:0.5;
+	
+}
+
+header .logo{
+	height:89px;
+	background: url(../images/logo.png) center no-repeat;
+	background-color:#54BDA8;
+	filter:alpha(opacity=80);
+	opacity:0.5;
+}
+
+
+
+main{
+	margin: 0 auto;
+	width:800px;
+	height:499px;
+}
+
+
+	
+
+
+main table th{
+	text-align:center;
+	height:40px;
+	
+}
+main table td{
+	
+	text-align:center;
+	height:40px;
+	
+}
+
+
